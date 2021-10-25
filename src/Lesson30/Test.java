@@ -1,4 +1,4 @@
-package Lesson30;
+package Lesson3031;
 
 public class Test {
     public static void main(String[] args) {
@@ -22,6 +22,22 @@ public class Test {
         int a = (int)l;         //поясняем так, чтоб ве работало.
 
         System.out.println(a);
+
+
+        /*
+        Less31 - классы обертки
+
+        int x = 1;
+
+        Integer x2 =12;
+        int y == x2;
+
+
+        // Double, Float, Long, Integer, Short, Byte, Character and Boolean - классы обертки нужны для упощени кода
+        присваивания примитавам каких то методов
+         */
+
+
 
     }
 }
